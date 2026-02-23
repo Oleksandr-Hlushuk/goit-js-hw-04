@@ -1,3 +1,3 @@
 # goit-js-hw-04
 
-My fourth JavaScript homework.
+My fourth JavaScript homework
